@@ -44,4 +44,4 @@ Alternatively, you can open the HTML files directly in your browser by double-cl
 *   **Advanced Search:** Navigate to `advanced.html` and fill in the desired search criteria before clicking "Advanced Search".
 *   **Navigation:** Use the links in the upper-right corner of each page to navigate between search types.
 
-## Project Structure
+
