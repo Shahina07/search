@@ -29,7 +29,7 @@ This project aims to recreate the user interface and behavior of Google Search u
 
 ## Setup and Installation
 
-1.  Clone the repository"
+1.  Clone the repository"https://github.com/Shahina07/search.git"
 2.  Open the project folder in VS Code (or your preferred code editor).
 3.  Install the Live Server extension in VS Code (recommended).
 4.  Open `index.html` (or any of the HTML files) and right-click to select "Open with Live Server".
